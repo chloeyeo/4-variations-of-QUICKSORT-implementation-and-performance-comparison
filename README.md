@@ -14,9 +14,17 @@ this assessed exercise is about:
       and then uses INSERTION-SORT to sort the entire nearly-sorted array;
     - A variant of QUICKSORT using the median-of-three partitioning scheme; and
     - 3-WAY-QUICKSORT.
+   
+   I have implemented these in the file "QuickSort.java".
 
 2. Running empirical studies to compare the performance of each version of quicksort implemented in step 1. I have used:
-    - Different cutoff values to compare each version of quicksort;
+
+    - Different cutoff values to compare each version of QuickSort;
     - Compared the runnning times of InsertionSort and MergeSort;
-    - 
-4. 
+    - Compared running times of each version of QuickSort.
+    
+   I have implemented these in the file "TestSortingAlgorithms.java" and ran each algorithm with each of the
+   provided text files of different sizes (intBig.txt, int1000.txt, int500k.txt, int20k.txt, dutch.txt)
+   to test the running times of each algorithm in different scenarios.
+   
+3. 
