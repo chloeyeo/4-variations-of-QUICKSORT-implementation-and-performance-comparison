@@ -2,6 +2,7 @@
 
 This is the first assessed exercise (out of two) of ADSE2 course in term 2 of year 2 in
 Bsc Computing Science degree in the University of Glasgow that I have submitted on Friday 11th February, 2022.
+This submission has received A4.
 
 As can be seen in the pdf file called "AE1 -ADSE2 (originally provided)",
 this assessed exercise is about:
@@ -13,3 +14,9 @@ this assessed exercise is about:
       and then uses INSERTION-SORT to sort the entire nearly-sorted array;
     - A variant of QUICKSORT using the median-of-three partitioning scheme; and
     - 3-WAY-QUICKSORT.
+
+2. Running empirical studies to compare the performance of each version of quicksort implemented in step 1. I have used:
+    - Different cutoff values to compare each version of quicksort;
+    - Compared the runnning times of InsertionSort and MergeSort;
+    - 
+4. 
