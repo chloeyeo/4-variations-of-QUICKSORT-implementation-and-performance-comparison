@@ -43,5 +43,9 @@ this assessed exercise is about:
     
     - Assuming that duplicates are not allowed in the input array;
     
-    - Explaining in the report (the pdf file named "Chae-Ryeong(Chloe) Yeo ADSE2 AE1")
-      how my algorithm operates and implementing it in Java.
+    - Explaining in the report how my algorithm operates and implementing it in Java.
+   
+   I have implemented this algorithm in "QuickSort.java" file under the function named "generateInputArray",
+   and provided explanation of this implementation in the pdf file named "Chae-Ryeong(Chloe) Yeo ADSE2 AE1".
+   
+   
